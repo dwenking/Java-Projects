@@ -81,7 +81,7 @@ else
 请按照第七题的数据库信息，读取该表数据，并写入到一个xlsx或xls文件中。
 
 
-### 11. DataBase3
+### 11.DataBase3
 读取以下文件sixteen.txt，将相同id的单词用逗号连接起来，最后采用按照第七题的数据库信息，以addBatch的方式插入到t_sixteen(id, str)中。
 ```
 sixteen.txt:
@@ -91,5 +91,7 @@ sixteen.txt:
 ```
 
 ### 12.WebCrawler
-请对以下100个网址采用Executor框架进行并行爬取内容，并将结果保存到文件中。每个文件一个网页内容。http://news.ecnu.edu.cn/cf/4c/c1833a118604/page.psp。 网页地址从8604开始往下递减100个即可。
+请对以下100个网址采用Executor框架进行并行爬取内容，并将结果保存到文件中。
+
+每个文件一个网页内容。http://news.ecnu.edu.cn/cf/4c/c1833a118604/page.psp。 网页地址从8604开始往下递减100个即可。
 
