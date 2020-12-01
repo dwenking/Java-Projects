@@ -45,12 +45,13 @@ Class A{int a; ArrayList<String> b; Date c} ，其中List类型请转化为JSONA
 <java-student>
   <student><name>张三</name><course>语文</course> 
     <score>80</score></student>
-  <student><name>李四</name><course>语文</coGurse> 
+  <student><name>李四</name><course>语文</course> 
     <score>82</score></student>
   <student><name>张三</name><course>数学</course> 
     <score>80</score></student>
 </java-student>
 ```
+分析：一级节点是<java-student>，二级节点是<student>，最后一级是各种属性<name>、<course>、<score>。
 
 ### 6.GrabData
 请将http://faculty.ecnu.edu.cn/search/teacherMain.faces?siteId=10&pageId=0 数据抓取下来，统计机构总数并输出。
