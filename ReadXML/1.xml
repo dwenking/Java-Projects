@@ -1,0 +1,17 @@
+<java-student>
+	<student>
+		<name>张三</name>
+		<course>语文</course>
+		<score>80</score>
+	</student>
+	<student>
+		<name>李四</name>
+		<course>语文</course>
+		<score>82</score>
+	</student>
+	<student>
+		<name>张三</name>
+		<course>数学</course>
+		<score>80</score>
+	</student>
+</java-student>
