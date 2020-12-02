@@ -51,7 +51,7 @@ Class A{int a; ArrayList<String> b; Date c} ，其中List类型请转化为JSONA
     <score>80</score></student>
 </java-student>
 ```
-分析：一级节点是<java-student>，二级节点是<student>，最后一级是各种属性<name>、<course>、<score>。
+分析：一级节点是<java-student>，二级节点是<student>，最后一级是各种属性\<name\>、\<course\>、\<score\>。
 
 ### 6.GrabData
 请将https://faculty.ecnu.edu.cn/ 数据抓取下来，统计机构总数并输出。
