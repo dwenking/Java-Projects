@@ -94,5 +94,5 @@ sixteen.txt:
 ### 12.WebCrawler
 请对以下100个网址采用Executor框架进行并行爬取内容，并将结果保存到文件中。
 
-每个文件一个网页内容。http://news.ecnu.edu.cn/cf/4c/c1833a118604/page.psp。 网页地址从8604开始往下递减100个即可。
+每个文件一个网页内容。http://news.ecnu.edu.cn/cf/4c/c1833a118604/page.psp 网页地址从8604开始往下递减100个即可。
 
