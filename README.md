@@ -96,3 +96,13 @@ sixteen.txt:
 
 每个文件一个网页内容。http://news.ecnu.edu.cn/cf/4c/c1833a118604/page.psp 网页地址从8604开始往下递减100个即可。
 
+### 13.XmlHomeWork
+读入以下的score.xml文件，并转化为JSON Object对象，输出JSON Object的字符串表达式。最后，根据JSON Object 的值和score.xml的样式，重新生成score2.xml。
+```
+<student>
+  <name>Tom</name>
+  <subject>math</subject>
+  <score>80</score>
+</student>
+```
+读取和写入xml方法不限，JSON处理方法不限。
